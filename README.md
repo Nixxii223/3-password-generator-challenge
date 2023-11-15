@@ -15,7 +15,7 @@ N/A
 
 Upon clicking the 'Generate Password' button, a text-box will appear prompting the user to input a desired password length and the types of characters that the user would like to include in the generated password. Select 'OK' to confirm a character type and 'Cancel' to remove a character type from the generated password.
 
-![image](https://github.com/nickib223/3-password-generator-challenge/assets/146459728/90646883-1e2e-4f93-a030-97cb0a5622a2)
+![screenshot of password generator](../3-password-generator-challenge/Develop/assets/images/Screenshot%202023-11-15%20112825.png)
 
 ## Credits
 
